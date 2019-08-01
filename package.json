@@ -1,0 +1,19 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "An Example site to go with the theme. ",
+  "author": "Darrik Moberg",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.13.42",
+    "gatsby-theme-soundboard": "^1.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

@@ -1,0 +1,16 @@
+- name: rimshot
+  file_name: rimshot-sound.mp3
+  source_name: Free Sound Library
+  source_url: http://www.freesoundslibrary.com
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+  description: A rimshot for comedic effect
+  coolDown: 10
+- name: rimshot2
+  file_name: rimshot-sound2.mp3
+  source_name: Free Sound Library
+  source_url: http://www.freesoundslibrary.com
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+  description: A rimshot for comedic effect
+  coolDown: 10
